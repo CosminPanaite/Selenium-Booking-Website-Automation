@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-07T14:42:55 EEST" name="Default suite" finished-at="2022-07-07T14:43:36 EEST" duration-ms="41224">
+    <groups>
+    </groups>
+    <test started-at="2022-07-07T14:42:55 EEST" name="Default test" finished-at="2022-07-07T14:43:36 EEST" duration-ms="41224">
+      <class name="internship.ChatPageTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:internship.ChatPageTest@1151e434]" started-at="2022-07-07T14:42:55 EEST" name="beforeClass" finished-at="2022-07-07T14:42:58 EEST" duration-ms="3651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="chatTest()[pri:0, instance:internship.ChatPageTest@1151e434]" started-at="2022-07-07T14:42:58 EEST" name="chatTest" finished-at="2022-07-07T14:43:36 EEST" duration-ms="37492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chatTest -->
+      </class> <!-- internship.ChatPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
